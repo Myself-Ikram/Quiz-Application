@@ -1,0 +1,26 @@
+.items-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading-title{
+  padding : 0.3rem 0rem;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  border: 2px solid rgb(173, 255, 47);
+}
+.username-input{
+  width: 50%;
+  height: 2rem;
+  border : none;
+    border-radius: 8px;
+  outline: none;
+}
+.btn-color{
+  border: 1px solid rgb(173, 255, 47) !important ;
+  color: rgb(173, 255, 47) !important;
+}
+.btn-color:hover{
+  color: rgb(173, 255, 47) !important;
+}
+
